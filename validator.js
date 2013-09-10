@@ -1,5 +1,5 @@
 /************************************
-Développer par Bertolucci Romain
+Développer par Bertolucci Romain - romain.bertolucci@orange.fr
 Plugin validator: V 0.6 - 10/09/2013
 Dependency jQuery, Apprise
 
